@@ -6,3 +6,4 @@ Print in 100% infill, and seal in polyurethane to prevent odor impregnation in b
 This design relies on 3mm acrilyc rods of 15cm in length.
 
 Please refer to plans for the holder and 3-chamber apparatus:
+    ![](https://github.com/FKiffer/Sociability-Cages/blob/main/image5.png)
